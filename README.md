@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  ▪ I’m currently continuing my study at SMK Telkom Malang 
-  | ▪ Currently learning React Js Front End Web Development 
+  ▪ Currently continuing my study at SMK Telkom Malang 
+  | ▪ Learning React Js Front End Web Development 
   | ▪ Get me in touch on my Instagram account 
   | ▪ Fun fact: I'm really into UI/UX Design 
 </p>
