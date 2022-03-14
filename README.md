@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, Welcome to my page! <img src="https://user-images.githubusercontent.com/89287773/158185594-92794b51-9edf-4755-bef5-bcc229803331.gif" width="30" height="30" />
+  Hi There, Welcome to My Page! <img src="https://user-images.githubusercontent.com/89287773/158185594-92794b51-9edf-4755-bef5-bcc229803331.gif" width="30" height="30" />
 </h1>
 
 <p align="center">
