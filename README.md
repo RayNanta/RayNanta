@@ -2,7 +2,7 @@
 Let me introduce you a few little things about myself!
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=100&lines=Hi+there!+Welcome+to+my+GitHub!;UI%2FUX+Enthusiast)](https://git.io/typing-svg) -->
-<img align="center" width=47% src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=100&lines=Hi+there!+Welcome+to+my+GitHub!;UI%2FUX+Enthusiast" />
+<img width=47% src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=100&lines=Hi+there!+Welcome+to+my+GitHub!;UI%2FUX+Enthusiast" />
 
 <!-- **RayNanta/RayNanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
