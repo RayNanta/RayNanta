@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there 👋
+  Hi there <span class="wave">👋</span>
 </p>
 
 <p align="center">
@@ -21,6 +21,28 @@
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
 
 <img align="left" width=47% src="http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" />
+
+.wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}
 
 
 
