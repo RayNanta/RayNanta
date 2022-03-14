@@ -14,6 +14,6 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/RayNanta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RayNanta" />
+  <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
 </a>
 
