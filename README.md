@@ -1,7 +1,7 @@
 ### Hi there 👋
 Let me introduce you a few little things about myself!
 <p align="center">
-  <img align="center" width="460" height="50" src="https://readme-typing-svg.herokuapp.com?duration=10000&color=E5289E&multiline=true&width=920&lines=UI%2FUX+Design%2C+Front+End+Web+Dev+Enthusiast">
+  <img align="center" width="460" height="50" src="https://readme-typing-svg.herokuapp.com?duration=10000&color=E5289E&center=true&vCenter=true&multiline=true&width=500&height=40&lines=UI%2FUX+Design+Enthusiast">
 </p>
 
 <!-- **RayNanta/RayNanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
