@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 <a href="https://github.com/RayNanta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/RayNanta/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RayNanta&repo=convoychat" />
+<a href="https://github.com/RayNanta/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RayNanta" />
 </a>
 
