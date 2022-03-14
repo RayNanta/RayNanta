@@ -17,9 +17,9 @@
    ⚡ Fun fact: I'm really into UI/UX Design
 </p>
 
-<img align="left" width="47%" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" />
 
-<img align="left" width="47%" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 
 
 
