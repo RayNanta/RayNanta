@@ -1,10 +1,6 @@
 <p align="center">
-  Hi there👋
+  Hi there, Welcome to my page!👋
 </p>
-
-<p align="center">
-  Let me introduce you a few little things about myself!
- </p>
  
 <p align="center">
   <img align="center" width="460" height="50" src="https://readme-typing-svg.herokuapp.com?size=40&duration=6000&color=E5289E&center=true&vCenter=true&width=500&height=100&lines=UI%2FUX+Design+Enthusiast">
