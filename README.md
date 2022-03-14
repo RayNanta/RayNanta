@@ -10,3 +10,4 @@ Here are some ideas to get you started: -->
 - 📫 Get me in touch on my Instagram account
 - ⚡ Fun fact: I'm really into UI/UX Design
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayNanta)](https://github.com/anuraghazra/github-readme-stats)
