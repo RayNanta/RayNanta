@@ -10,5 +10,10 @@ Here are some ideas to get you started: -->
 - 📫 Get me in touch on my Instagram account
 - ⚡ Fun fact: I'm really into UI/UX Design
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave)
+<a href="https://github.com/RayNanta/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/RayNanta/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RayNanta&repo=convoychat" />
+</a>
 
