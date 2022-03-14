@@ -12,11 +12,9 @@ Here are some ideas to get you started: -->
 - 📫 Get me in touch on my Instagram account
 - ⚡ Fun fact: I'm really into UI/UX Design
 
-<a href="https://github.com/RayNanta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/RayNanta/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
+
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
+<img align="left" width=47% src="http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" />
+
 
 
