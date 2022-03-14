@@ -1,6 +1,6 @@
+### Hi there 👋
+Let me introduce you a few little things about myself!
 <p align="center">
-  ### Hi there 👋
-  Let me introduce you a few little things about myself!
   <img width="460" height="150" src="https://readme-typing-svg.herokuapp.com?color=E5289E&multiline=true&lines=UI%2FUX+Enthusiast">
 </p>
 
