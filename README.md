@@ -17,8 +17,7 @@
 
 <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=j%20M%5B%20Y%5D" />
 
-<br />
-<p align="center">
+<p align="center" height="20px>
   <img align="center" src="https://custom-icon-badges.herokuapp.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" />
 </p>
 
