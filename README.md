@@ -1,6 +1,6 @@
-<p align="center">
-  Hi there, Welcome to my page! <img src="https://user-images.githubusercontent.com/89287773/158185594-92794b51-9edf-4755-bef5-bcc229803331.gif" width="15" height="15" />
-</p>
+<h1 align="center">
+  Hi there, Welcome to my page! <img src="https://user-images.githubusercontent.com/89287773/158185594-92794b51-9edf-4755-bef5-bcc229803331.gif" width="30" height="30" />
+</h1>
 
 <p align="center">
   <img align="center" width="460" height="50" src="https://readme-typing-svg.herokuapp.com?size=40&duration=6000&color=E5289E&center=true&vCenter=true&width=500&height=100&lines=UI%2FUX+Design+Enthusiast" />
