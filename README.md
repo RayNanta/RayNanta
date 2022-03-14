@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Let me introduce you a few little things about myself!
 
 <!-- **RayNanta/RayNanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
