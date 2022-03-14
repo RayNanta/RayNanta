@@ -7,7 +7,7 @@
  </p>
  
 <p align="center">
-  <img align="center" width="460" height="50" src="https://readme-typing-svg.herokuapp.com?duration=10000&color=E5289E&center=true&vCenter=true&multiline=true&width=500&height=40&lines=UI%2FUX+Design+Enthusiast">
+  <img align="center" width="460" height="50" src="https://readme-typing-svg.herokuapp.com?size=40&duration=10000&color=E5289E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=UI%2FUX+Design+Enthusiast">
 </p>
 
 <p align="center">
