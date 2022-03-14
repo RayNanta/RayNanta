@@ -13,10 +13,13 @@
   | ▪ Fun fact: I'm really into UI/UX Design | 
 </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
-
-<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=j%20M%5B%20Y%5D" />
-
-
+<table>
+  <tbody>
+    <tr>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" /></td>
+      <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RayNanta&theme=synthwave&date_format=j%20M%5B%20Y%5D" /></td>
+    </tr>
+  </tbody>
+</table>
 
 
