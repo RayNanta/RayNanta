@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- :school_satchel: I’m currently contiung my study on SMK Telkom Malang
-- 🌱 I’m currently learning React Js Front End Web Development
-- 💬 Ask me about ...
-- 📫 Get in me in touch on my Instagram account
+- :school_satchel: I’m currently continuing my study on SMK Telkom Malang
+- 🌱 Currently learning React Js Front End Web Development
+- 📫 Get me in touch on my Instagram account
 - ⚡ Fun fact: I'm really into UI/UX Design
 
