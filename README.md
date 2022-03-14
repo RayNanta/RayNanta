@@ -10,7 +10,7 @@
   ▪ Currently continuing my study at SMK Telkom Malang 
   | ▪ Learning React Js Front End Web Development 
   | ▪ Get me in touch on my Instagram account 
-  | ▪ Fun fact: I'm really into UI/UX Design 
+  | ▪ Fun fact: I'm really into UI/UX Design | 
 </p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RayNanta&show_icons=true&theme=synthwave" />
