@@ -9,7 +9,7 @@
 <p align="center">
   ▪ Currently continuing my study at SMK Telkom Malang 
   &nbsp;| ▪ Learning React Js Front End Web Development 
-  &nbsp;| ▪ Get me in touch on my Instagram account 
+  &nbsp;| ▪ Get me in touch on my Twitter account 
   &nbsp;| ▪ Fun fact: I'm really into UI/UX Design | 
 </p>
 
@@ -21,5 +21,34 @@
     </tr>
   </tbody>
 </table>
+
+<h3 align="center">
+  My Interests!
+</h3>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+      <td><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+      <td><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
+      <td><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 align="center">
+  Get Me in Touch!
+</h3>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td><img align="center" src="https://img.shields.io/twitter/follow/rayyntt?style=social" /></td>
+  </tbody>
+</table>
+
+
+
 
 
