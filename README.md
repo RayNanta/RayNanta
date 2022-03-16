@@ -46,9 +46,12 @@
 <table align="center">
   <tbody>
     <tr>
-      <td><img align="center" src="https://img.shields.io/twitter/follow/rayyntt?style=social" /></td>
+      <td><a href="https://www.instagram.com/projectmuu.id"><img align="center" src="https://github.com/RayNanta/RayNanta/blob/main/images/instagram.png" alt="RayNanta | Instagram" height="30px"/></a></td>
+      <td><a href="https://twitter.com/rayyntt"><img align="center" src="https://github.com/RayNanta/RayNanta/blob/main/images/twitter.png" alt="RayNanta | Twitter" height="30px"/></a></td>
   </tbody>
 </table>
+
+
 
 
 
