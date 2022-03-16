@@ -9,7 +9,7 @@
 <p align="center">
   ▪ Currently continuing my study at SMK Telkom Malang 
   &nbsp;| ▪ Learning React Js Front End Web Development 
-  &nbsp;| ▪ Get me in touch on my Social Media accounts
+  &nbsp;| ▪ Get me in touch on my social media accounts
   &nbsp;| ▪ Fun fact: I'm really into UI/UX Design | 
 </p>
 
